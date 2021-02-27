@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gelog/Desktop/untitled/list.cpp
+list.hpp
+C:/Users/Gelog/Desktop/untitled/list.hpp
+
+C:/Users/Gelog/Desktop/untitled/list.hpp
+iostream
+-
+
+C:/Users/Gelog/Desktop/untitled/main.cpp
+iostream
+-
+list.hpp
+C:/Users/Gelog/Desktop/untitled/list.hpp
+
